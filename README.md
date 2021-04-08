@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evandvance
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning the discord bot api.
-- 💞️ I’m looking to collaborate on potentially a discord bot of some sort, or a minecraft plugin.
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me - Discord me @evandvance#1560
 
 <!---
